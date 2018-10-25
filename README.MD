@@ -4,7 +4,7 @@
 
 ### Requirements:
 
-- web3.py
+- web3.py 4.7.2
 - API Key from [infura.io](https://infura.io)
 - Source account and its private key
 - Destination account
